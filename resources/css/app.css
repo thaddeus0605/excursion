@@ -17,3 +17,14 @@ h1 {
     
     font-size: 16px;
 }
+
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.excurison-desc {
+    font-size: 21px;
+    color: gray;
+}
